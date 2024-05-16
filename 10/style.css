@@ -1,0 +1,9 @@
+.song {
+    cursor: pointer;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.song:hover {
+    background-color: #f0f0f0;
+}

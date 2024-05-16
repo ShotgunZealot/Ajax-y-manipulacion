@@ -1,0 +1,15 @@
+.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thumbnails img {
+    width: 100px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.full-size img {
+    max-width: 100%;
+}

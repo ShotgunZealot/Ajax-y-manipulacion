@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "task": "Completar la tarea 1",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "task": "Completar la tarea 2",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "task": "Completar la tarea 3",
+      "completed": false
+    }
+  ]
+  
